@@ -1,0 +1,8 @@
+export const LOGIN = "USER/LOGIN";
+export const LOGOUT = "USER/LOGOUT";
+export const FETCH_ALL_USERS = "USERS/FETCH_ALL";
+export const REGISTER = "USER/REGISTER";
+export const WEBSOCKET_CONNECT = "WEBSOCKET/CONNECT";
+export const FETCH_MESSAGES = "MESSAGES/FETCH_ALL";
+export const SAVE_MESSAGE = "MESSAGES/SAVE";
+export const UPDATE_UNREAD_COUNT = "UPDATE_UNREAD_COUNT";
